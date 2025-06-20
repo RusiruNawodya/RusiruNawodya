@@ -49,7 +49,7 @@
 
 <div align="center">
   
-<a href="https://linkedin.com/in/rusiru nawodya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rusiru nawodya" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/rusiru-nawodya-38651733b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="rusiru nawodya" height="30" width="40" /></a>
 <a href="https://fb.com/rusiru nawodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rusiru nawodya" height="30" width="40" /></a>
 <a href="https://instagram.com/rusiru nawodya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="rusiru nawodya" height="30" width="40" /></a>
 
